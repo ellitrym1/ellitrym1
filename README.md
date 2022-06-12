@@ -1,7 +1,5 @@
 # Hi, I'm Aditya!!! 👋 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ellitrym1.github.io/)
 
-## Other Common Github Profile Sections
-
 👩‍💻 I'm currently working on creating a employee login system for a local company. [production-kitchen]
 
 🧠 I'm currently learning [php]
