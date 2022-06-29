@@ -2,7 +2,7 @@
 
 👩‍💻 I'm currently working on creating a employee login system for a local company. [production-kitchen]
 
-🧠 I'm currently learning [php]
+🧠 I'm currently learning [typescript]
 
 👯‍♀️ I'm looking to collaborate on open-source projects
 
