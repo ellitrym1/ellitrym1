@@ -50,6 +50,4 @@
     - Other
         - Linux
         - Git
-
-[production-kitchen]: https://github.com/ellitrym1/production-kitchen
-[php]: https://www.php.net/docs.php
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ellitrym1)](https://github.com/anuraghazra/github-readme-stats)
